@@ -9,7 +9,7 @@ Our project is to determine the relationship between discourse of Bitcoin in mai
 3. Create a classification report/confusion matrix based on Bitcoin price data.
 4. Based on the rate of creation of new Bitcoin wallets we will establish an adoption rate of Bitcoin. (Adoption rate = number of wallets created vs number of wallets already existing compared to population size).
 5. Once an adoption rate is established we will make a judgement as to whether Bitcoin is a long term asset class or an opportunity to profit off of volatility.
-6. Solve for rate of adoption needed based on amount of years it would take to mine all Bitcoins.
+6. Solve for rate of adoption needed for world-wide adoption based on amount of years it would take to mine all Bitcoins.
 7. Determine whether world-wide adoption of Bitcoin by the date all Bitcoins are mined is feasible based on current adoption rate.
 
 ## Sources
