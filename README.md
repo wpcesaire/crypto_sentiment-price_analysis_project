@@ -1,5 +1,5 @@
 # fintech-project-2
-A repository for Columbia University FinTech Project 2
+
 
 Our project is to determine the relationship between discourse of Bitcoin in mainstream news media and  Bitcoin price. Based upon this relationship we intend to create an algorithm that uses this signal to trade Bitcoin on price volatility.
 
